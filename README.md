@@ -1,3 +1,7 @@
+# swagger-ui + Nuxt@3
+
+This repo serves as POC of integrating [swagger-ui-react](https://github.com/swagger-api/swagger-ui) with [Nuxt@3](https://nuxt.com/).
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
