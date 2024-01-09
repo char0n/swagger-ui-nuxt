@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.7.1"
+    "nuxt": "^3.9.1"
   },
   "dependencies": {
-    "swagger-ui": "^5.6.1"
+    "swagger-ui": "^5.11.0"
   }
 }
